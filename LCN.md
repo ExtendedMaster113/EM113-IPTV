@@ -1,37 +1,63 @@
 LCN|Channel Name
 --|--
-97|Morning Musume
-101|ME\:I
-102|IS\:SUE
-109|ANGERME
-113|Juice\=Juice
-117|Tsubaki Factory
-119|BEYOOOOONDS
-122|OCHA NORMA
-125|Rosy Chronicle
-511|CCTV-4
-516|ABC Australia
-517|MCZ
-540|Euronews
-541|Al Jazeera English
+199|Love Nature 4K
+200|Love Nature HD
+201|Global Trekker
+203|BBC Earth
+208|Discovery Asia
+209|Discovery
+210|Animal Planet
+212|DMAX
+213|TLC
+220|History
+222|Crime\+Investigation
+225|CGTN Documentary
+267|BBC Cbeebies
+268|Moonbug Kids
+269|Cartoonito
+270|Nick Jr.
+273|Cartoon Network
+274|Nickelodeon
+275|Animax
+276|ZooMoo
+277|Dreamworks TV
+529|CNN International
+530|BBC News
+531|Bloomberg TV
+532|CGTN
+539|CNBC Asia
+540|TRT World
 542|CNA
-543|CGTN
+543|Al Jazeera English
 544|KBS World
 546|France 24 English
 547|NHK World
 549|Al Jazeera Arabic
 550|DW English
-552|GEM (Inactive)
 558|Russia Today
-559|CNN International
-560|BBC News
-561|CNBC Asia
-563|Bloomberg TV
+559|Euronews
+563|TV5 Monde
 564|Arirang TV
-565|DW Deutsch (Inactive)
-745|ONE (Inactive)
+566|ABC Australia
+567|MCZ
+701|HITS MOVIES
+711|HBO
+712|HBO Signature
+713|Cinemax
+714|HBO Family
+715|HBO Hits
+716|TVN MOVIES
+723|CinemaWorld
+742|Rock Entertainment
+743|Rock Action
+744|HITS Now
 746|TVN
 747|AXN
-772|Animax
-773|Rock Entertainment
-774|Rock Action
+748|Warner TV
+749|HITS
+751|BBC Lifestyle
+753|AFN
+754|Food Network
+755|HGTV
+759|Lifetime
+772|CCTV-4
