@@ -1,62 +1,143 @@
 LCN,Channel Name
-199,Love Nature 4K
-200,Love Nature HD
-201,Global Trekker
-203,BBC Earth
-208,Discovery Asia
-209,Discovery
-210,Animal Planet
-212,DMAX
-213,TLC
-220,History
-222,Crime+Investigation
-225,CGTN Documentary
-267,BBC Cbeebies
-268,Moonbug Kids
-269,Cartoonito
-270,Nick Jr.
-273,Cartoon Network
-274,Nickelodeon
-275,Animax
-276,ZooMoo
-277,Dreamworks TV
-529,CNN International
-530,BBC News
-531,Bloomberg TV
-532,CGTN
-539,CNBC Asia
+1,TVRI Nasional
+2,TVRI Jateng
+3,TVRI World
+5,KEBUMEN TV
+7,Bali TV
+11,Kompas TV
+12,BTV
+14,Sin Po TV
+15,JTV
+16,MDTV
+17,Garuda TV
+18,CNBC Indonesia
+19,CNN Indonesia
+20,Trans TV
+21,Trans 7
+22,Metro TV
+23,SCTV
+24,Indosiar
+25,Jak TV
+26,ANTV
+27,tvOne
+28,RCTI
+29,MNC TV
+30,GTV
+31,iNews
+32,Nusantara TV
+34,RTV
+35,MOJI TV
+36,Mentari TV
+37,VTV
+38,Magna Channel
+39,BN Channel
+41,BeritaSatu
+45,Jawa Pos TV
+77,Jagantara TV
+100,Channel Info
+101,In House Channel
+151,MTV Live (inactive)
+152,CDI
+153,MTV 90s (inactive)
+202,Discovery
+204,Discovery Asia
+206,Crime+Investigation
+208,Animal Planet
+209,History
+211,CGTN Documentary
+212,Global Trekker
+213,Knowledge+
+214,BBC Earth
+217,Love Nature 4K
+218,Love Nature HD
+235,Nick Jr.
+236,Cartoonito
+237,BBC Cbeebies
+238,Moonbug Kids
+242,Nickelodeon
+243,Animax
+244,Cartoon Network
+245,Horee!
+246,ZooMoo
+247,Dreamworks TV
+300,BMS TV
+301,Satelit TV
+500,Quran TV
+502,Rodja TV
+503,DAAI TV
+504,MTA TV
+505,DMI TV
+506,Daystar TV
+507,Nabawi TV
+508,TV9 Nusantara
+509,tvMu
+511,Pijar TV
+514,EWTN
+516,U-Channel TV
+517,Hope Channel
+531,Sindonews TV
+532,IDX Channel
+533,CGTN
+534,BBC News
+535,FOX News
+536,Euronews
+537,CNN International
+539,Bloomberg TV
 540,TRT World
+541,CNBC Asia
 542,CNA
 543,Al Jazeera English
-544,KBS World
-546,France 24 English
-547,NHK World
-549,Al Jazeera Arabic
-550,DW English
+550,NHK World
+551,The Indonesia Channel
+552,DW English
+554,ABC Australia
+555,Rai Italia
+557,CCTV-4
 558,Russia Today
-559,Euronews
-563,TV5 Monde
-564,Arirang TV
-566,ABC Australia
+559,Arirang TV
+560,TV5 Monde
+561,France 24 English
+562,KBS World
 567,MCZ
-710,HITS MOVIES
-711,HBO
-712,HBO Signature
-713,Cinemax
-714,HBO Family
-715,HBO Hits
-716,TVN MOVIES
-723,CinemaWorld
-742,Rock Entertainment
-743,Rock Action
-744,HITS Now
-746,TVN
-747,AXN
-748,Warner TV
-749,HITS
+601,HITS Movies
+606,Studio Universal
+607,Warner TV
+611,HBO
+612,HBO Signature
+613,Cinemax
+614,HBO Family
+615,HBO Hits
+616,TVN MOVIES
+623,CinemaWorld
+630,Zee Bioskop
+639,KIX
+641,Thrill
+642,Celestial Movies
+643,Celestial Classic Movies
+722,Rock Entertainment
+723,Rock Action
+724,HITS NOW
+726,TVN
+727,AXN
+728,ONE (inactive)
+732,Lifetime
+733,HITS
 751,BBC Lifestyle
-753,AFN
-754,Food Network
-755,HGTV
-759,Lifetime
-772,CCTV-4
+754,Fashion TV
+755,Gaming TV
+756,Food Network
+757,AFN
+758,HGTV
+759,Trvl Channel
+773,DMAX
+775,TLC
+900,Fight Sports
+904,Xtrem Sports
+907,SPOTV
+908,SPOTV 2
+909,beIN Sports 1
+910,beIN Sports 2
+911,beIN Sports 3
+912,beIN Sports 4
+913,beIN Sports 5
+914,TVRI Sport
