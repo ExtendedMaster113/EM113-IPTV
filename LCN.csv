@@ -6,16 +6,23 @@ LCN,Channel Name
 131,AKB48
 132,[JKT48 info card]
 133,Nogizaka46
-150,[MTV Live info card]
-151,[Stringray CMusic info card]
-152,[CDI info card]
-153,[Channel V International info card]
-154,ANGERME
-155,[Hakkiri Shiyou Ze test card]
-156,tvN (formerly Channel M)
-157,Limista TV JP
+145,[Channel V International info card]
+146,tvN (formerly Channel M)
+147,[MTV Live info card]
+148,[MTV Southeast Asia / MTV 90s info cards]
+149,Momoiro Clover Z Channel
+150,Limista TV JP
+151,Hello! Project Station
+152,[UPCOMING CHANNEL info card]
+153,M-line Music (formerly tiny tiny)
+155,[Nat Geo Music info card]
+158,[Stingray CMusic info card]
+159,[Stingray iConcerts info card]
 160,[B4U Music info card]
 161,[Zing info card]
+162,[MTV China info card]
+180,Hakkiri Shiyou Ze
+181,ANGERME
 200,[Nat Geo Wild test card]
 201,[Nat Geo Channel test card]
 202,Discovery
@@ -31,25 +38,28 @@ LCN,Channel Name
 212,Global Trekker
 213,Knowledge+
 214,Outdoor Channel
+215,SATOYAMA & SATOUMI movement
 239,[Disney XD info card]
 240,[Disney Jr. info card]
 241,[Disney Channel info card]
 242,Nickelodeon
 243,Animax
 244,Cartoon Network
-245,Aniplus (replaces Toonami)
+245,Cartoon TV Classic (replaces Toonami and Aniplus)
 246,Cartoonito
 247,Nick Jr.
 248,Moonbug Kids (replaces Baby TV)
 249,Dreamworks TV
 250,BBC Cbeebies
 251,Cartoon TV
-252,[Miao Mi info card]
-253,[My Kidz info card]
+253,[BabyFirst TV info card]
+254,[Duck TV info card]
 255,[Da Vinci Learning info card]
+256,[Miao Mi info card]
 500,Quran TV
 506,Daystar TV
 514,EWTN
+517,Hope Channel
 533,CGTN
 534,BBC News
 535,FOX News
@@ -57,7 +67,7 @@ LCN,Channel Name
 537,[HLN info card]
 539,Bloomberg TV
 540,TRT World
-541,CNBC
+541,CNBC Asia
 542,CNA
 543,Al Jazeera English
 548,[WakuWaku Japan info card]
@@ -76,10 +86,9 @@ LCN,Channel Name
 561,[TVE info card]
 562,France 24 English
 563,KBS World
-564,K+
+564,[K+ info card]
 565,[DW Deutsch info card]
 566,ABC Australia (formerly Australia Plus TV)
-567,MCZ
 571,The Indonesia Channel
 601,HITS Movies
 609,Studio Universal (replaces Paramount Network)
@@ -108,43 +117,49 @@ LCN,Channel Name
 645,[Star Chinese Movies Legend info card]
 722,Rock Entertainment (formerly RTL CBS Entertainment / Blut Ant Entertainment)
 723,Rock Action (formerly RTL CBS Extreme / Blue Ant Extreme / Rock Extreme)
-724,AXN
-725,[ONE info card]
-726,[GEM info card]
+724,[ONE info card]
+725,UPFRONT CHANNEL
+726,[Comedy Central info card]
 727,[FOX Life info card]
 728,[FOX info card]
 729,[FOX Crime info card]
 730,[FX info card]
-731,[Zee Hiburan info card]
-732,Lifetime
+731,[GEM info card]
+732,AXN
 733,[Sony Channel info card]
-734,HITS NOW (replaces DIVA)
+734,HITS Now (replaces DIVA)
 735,[Universal Channel info card]
 736,[Syfy info card]
 737,[ITV Choice info card]
 738,KIX
 739,HITS
-750,[Nat Geo People info card]
-751,BBC Lifestyle
+750,HGTV
+751,Food Network
+752,[Esquire info card]
 753,[E! info card]
-754,Fashion TV
-755,Gaming TV (replaces TechStorm)
-756,Food Network
-757,AFN
-758,HGTV
-759,Trvl Channel
-773,DMAX
-774,[Eve info card]
-775,TLC
+754,TLC
+755,BBC Lifestyle
+756,AFN
+757,[Nat Geo People info card]
+758,DMAX
+759,Lifetime
+761,Trvl Channel
+762,[Eve info card]
+765,[Life Inspired TV info card]
+766,Fashion TV
+767,Fashion TV HD
+768,OMAKE CHANNEL
+769,[TechStorm info card]
 900,[FOX Sports 1 info card]
 901,[FOX Sports 2 info card]
 902,[FOX Sports 3 info card]
 903,[FOX Sports News info card]
 904,Fight Sports
-907,SPOTV
-908,SPOTV 2
-909,beIN Sports 1
-910,beIN Sports 2
-911,beIN Sports 3
-912,beIN Sports 4
-913,beIN Sports 5
+905,[Golf Channel info card]
+906,beIN Sports 1
+907,beIN Sports 2
+908,beIN Sports 3
+909,SPOTV
+910,SPOTV 2
+911,[Setanta Sports info card]
+912,Eurosport
