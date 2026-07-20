@@ -1,8 +1,11 @@
 LCN,Channel Name
-100,Channel Info
+100,Koishi Komeji Channel (08:30-17:00)
+100,TG635 J-Pop Music (17:00-22:00)
+100,Channel Info (22:00-08:30)
+101,In House Channel 101
+102,Channel List
 110,In House Channel 110
 111,In House Channel 111
-130,Morning Musume
 131,AKB48
 132,[JKT48 info card]
 133,Nogizaka46
@@ -10,19 +13,14 @@ LCN,Channel Name
 146,tvN (formerly Channel M)
 147,[MTV Live info card]
 148,[MTV Southeast Asia / MTV 90s info cards]
-149,Momoiro Clover Z Channel
+149,Inori Minase Channel
 150,Limista TV JP
-151,Hello! Project Station
-152,[UPCOMING CHANNEL info card]
-153,M-line Music (formerly tiny tiny)
 155,[Nat Geo Music info card]
 158,[Stingray CMusic info card]
 159,[Stingray iConcerts info card]
 160,[B4U Music info card]
 161,[Zing info card]
 162,[MTV China info card]
-180,Hakkiri Shiyou Ze
-181,ANGERME
 200,[Nat Geo Wild test card]
 201,[Nat Geo Channel test card]
 202,Discovery
@@ -36,22 +34,21 @@ LCN,Channel Name
 210,Love Nature 4K
 211,CGTN Documentary
 212,Global Trekker
-213,Knowledge+
 214,Outdoor Channel
-215,SATOYAMA & SATOUMI movement
 239,[Disney XD info card]
 240,[Disney Jr. info card]
 241,[Disney Channel info card]
 242,Nickelodeon
 243,Animax
 244,Cartoon Network
-245,Cartoon TV Classic (replaces Toonami and Aniplus)
-246,Cartoonito
+245,Aniplus (replaces Toonami)
+246,Cartoonito (formerly Boomerang)
 247,Nick Jr.
 248,Moonbug Kids (replaces Baby TV)
-249,Dreamworks TV
-250,BBC Cbeebies
-251,Cartoon TV
+249,Dreamworks TV (replaces KidsCo and JimJam)
+250,[MNC Kids info card]
+251,BBC Cbeebies
+252,ZooMoo
 253,[BabyFirst TV info card]
 254,[Duck TV info card]
 255,[Da Vinci Learning info card]
@@ -86,53 +83,49 @@ LCN,Channel Name
 561,[TVE info card]
 562,France 24 English
 563,KBS World
-564,[K+ info card]
+564,K+
 565,[DW Deutsch info card]
-566,ABC Australia (formerly Australia Plus TV)
+566,ABC Australia (formerly Australia Network and Australia Plus TV)
+567,Momoiro Clover Z Channel
 571,The Indonesia Channel
-601,HITS Movies
-609,Studio Universal (replaces Paramount Network)
-610,Warner TV
+610,Studio Universal (replaces Paramount Network
 611,HBO
 612,HBO Signature
 613,Cinemax
 614,HBO Family
 615,HBO Hits
-616,tvN MOVIES
+616,[AMC info card]
 617,[FOX Movies info card]
 618,[FOX Action Movies info card]
-619,[FOX Family Movies info card]
+619,HITS Movies
+620,[FOX Family Movies info card]
 623,CinemaWorld
-625,[AMC info card]
-630,Zee Bioskop
-632,B4U Movies
-634,Thrill
-636,[My Family Channel info card]
-637,[My Cinema info card]
-638,Macau Lotus TV
-641,[RED by HBO info card]
-642,Celestial Movies
-643,Celestial Classic Movies
-644,[Star Chinese Movies info card]
-645,[Star Chinese Movies Legend info card]
+625,Thrill
+640,tvN Movies
+641,[GEM info card]
+642,[Star Chinese Movies info card]
+643,[Star Chinese Movies Legend info card]
+644,Celestial Movies
+645,Celestial Classic Movies
+646,[RED by HBO info card]
+651,Zee Bioskop
+652,[B4U Movies info card]
 722,Rock Entertainment (formerly RTL CBS Entertainment / Blut Ant Entertainment)
 723,Rock Action (formerly RTL CBS Extreme / Blue Ant Extreme / Rock Extreme)
-724,[ONE info card]
-725,UPFRONT CHANNEL
+724,[FX info card]
+725,[ONE info card]
 726,[Comedy Central info card]
 727,[FOX Life info card]
-728,[FOX info card]
+728,KIX
 729,[FOX Crime info card]
-730,[FX info card]
-731,[GEM info card]
+730,[FOX info card]
+731,[Zee Hiburan info card]
 732,AXN
 733,[Sony Channel info card]
 734,HITS Now (replaces DIVA)
-735,[Universal Channel info card]
-736,[Syfy info card]
-737,[ITV Choice info card]
-738,KIX
-739,HITS
+735,HITS Movies (replaces Universal Channel)
+736,HITS (replaces Syfy)
+737,Warner TV
 750,HGTV
 751,Food Network
 752,[Esquire info card]
@@ -144,11 +137,11 @@ LCN,Channel Name
 758,DMAX
 759,Lifetime
 761,Trvl Channel
-762,[Eve info card]
+762,[Luxe TV info card]
 765,[Life Inspired TV info card]
-766,Fashion TV
-767,Fashion TV HD
-768,OMAKE CHANNEL
+766,[Eve info card]
+767,Fashion TV
+768,Fashion TV HD
 769,[TechStorm info card]
 900,[FOX Sports 1 info card]
 901,[FOX Sports 2 info card]
