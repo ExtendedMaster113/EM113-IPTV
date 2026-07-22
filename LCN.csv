@@ -27,8 +27,6 @@ LCN,Channel Name
 203,Discovery Asia
 204,BBC Earth
 205,History
-206,[FYI info card]
-207,Crime+Investigation
 208,[Discovery Science info card]
 209,Animal Planet
 210,Love Nature 4K
@@ -53,7 +51,27 @@ LCN,Channel Name
 254,[Duck TV info card]
 255,[Da Vinci Learning info card]
 256,[Miao Mi info card]
+301,TVRI Nasional
+302,CNN Indonesia
+303,Lejel Home Shopping
+304,Trans 7
+305,Indosiar
+306,ANTV
+307,tvOne
+308,Metro TV
+309,RTV
+310,Kompas TV
+311,MDTV (formerly NET. TV)
+312,[MyTV info card]
+313,Trans TV
+314,Sin Po TV
+315,Jak TV
+316,JTV
+317,BMS TV
+318,Mamah TV
+319,MOJI TV
 500,Quran TV
+503,DAAI TV
 506,Daystar TV
 514,EWTN
 517,Hope Channel
@@ -67,8 +85,6 @@ LCN,Channel Name
 541,CNBC Asia
 542,CNA
 543,Al Jazeera English
-548,[WakuWaku Japan info card]
-549,NHK World Premium
 550,NHK World Japan
 551,[Nippon TV info card]
 552,DW English
@@ -82,8 +98,8 @@ LCN,Channel Name
 560,TV5 Monde
 561,[TVE info card]
 562,France 24 English
-563,KBS World
-564,K+
+563,KBS Korea
+564,KBS World
 565,[DW Deutsch info card]
 566,ABC Australia (formerly Australia Network and Australia Plus TV)
 567,Momoiro Clover Z Channel
@@ -94,31 +110,36 @@ LCN,Channel Name
 613,Cinemax
 614,HBO Family
 615,HBO Hits
-616,[AMC info card]
+616,tvN Movies
 617,[FOX Movies info card]
 618,[FOX Action Movies info card]
 619,HITS Movies
 620,[FOX Family Movies info card]
 623,CinemaWorld
-625,Thrill
-640,tvN Movies
-641,[GEM info card]
+625,[AMC info card]
+638,Macau Lotus TV
+639,KIX
+640,Celestial Classic Movies
+641,Celestial Movies
 642,[Star Chinese Movies info card]
 643,[Star Chinese Movies Legend info card]
-644,Celestial Movies
-645,Celestial Classic Movies
+644,[Vision Prime info card]
+645,[GEM info card]
 646,[RED by HBO info card]
 651,Zee Bioskop
 652,[B4U Movies info card]
+661,Thrill
+720,[WakuWaku Japan info card]
+721,SCTV
 722,Rock Entertainment (formerly RTL CBS Entertainment / Blut Ant Entertainment)
 723,Rock Action (formerly RTL CBS Extreme / Blue Ant Extreme / Rock Extreme)
-724,[FX info card]
+724,K+
 725,[ONE info card]
 726,[Comedy Central info card]
 727,[FOX Life info card]
-728,KIX
+728,[FOX info card]
 729,[FOX Crime info card]
-730,[FOX info card]
+730,[FX info card]
 731,[Zee Hiburan info card]
 732,AXN
 733,[Sony Channel info card]
@@ -126,19 +147,23 @@ LCN,Channel Name
 735,HITS Movies (replaces Universal Channel)
 736,HITS (replaces Syfy)
 737,Warner TV
-750,HGTV
-751,Food Network
+738,[BBC Entertainment info card]
+746,[TruTV info card]
+747,DMAX
+749,Crime+Investigation
+750,AFN
+751,BBC Lifestyle
 752,[Esquire info card]
+752,Food Network
 753,[E! info card]
-754,TLC
-755,BBC Lifestyle
-756,AFN
-757,[Nat Geo People info card]
-758,DMAX
+754,[FYI info card]
+755,MosoGourment
+756,[Nat Geo People info card]
+757,TLC
 759,Lifetime
 761,Trvl Channel
 762,[Luxe TV info card]
-765,[Life Inspired TV info card]
+765,HGTV (replaces Life Inspired TV)
 766,[Eve info card]
 767,Fashion TV
 768,Fashion TV HD
