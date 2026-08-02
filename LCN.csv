@@ -3,22 +3,31 @@ LCN,Channel Name (* = YT Channel),Genre
 101,In House Channel 101,In House
 102,FIRST PLAYLIST (*),J-Pop
 103,In House Channel 103,In House (Lifestyle)
+130,Morning Musume (*),J-Pop
 131,AKB48 (*),J-Pop
 132,JKT48 (*),J-Pop
 133,Nogizaka46 (*),J-Pop
 146,tvN,Entertainment
 149,Inori Minase Channel (*),J-Pop
 150,Limista TV JP (*),Music
+151,Hello! Project Station (*),Music
+153,M-line Music (*),Music
+181,ANGERME (*),J-Pop
 202,Discovery,Knowledge
 203,Discovery Asia,Knowledge
 204,BBC Earth,Knowledge
 205,History,Knowledge
-206,Discovery Science (*),Knowledge
+208,Discovery Science (*),Knowledge
 209,Animal Planet,Knowledge
 210,Love Nature 4K,Knowledge
 211,CGTN Documentary,Knowledge
-212,Global Trekker,Knowledge
-214,Outdoor Channel,Kmowledge
+212,Global Trekker,Lifestyle
+213,Knowledge+,Knowledge
+214,Outdoor Channel,Knowledge
+215,Xtrem Sports,Sports
+237,Cartoon TV,Kids
+238,Cartoon TV Classic,Kids
+239,Cartoon TV Premium,Kids
 242,Nickelodeon,Kids
 243,Animax,Entertainment
 244,Cartoon Network,Kids
@@ -56,11 +65,18 @@ LCN,Channel Name (* = YT Channel),Genre
 318,RTV,Local
 319,MOJI TV,Local
 500,Quran TV,Religion
+502,Rodja TV,Religion
 503,DAAI TV,Local
 504,MTA TV,Religion
 506,Daystar TV,Religion
+507,Nabawi TV,Religion
+508,TV9 Nusantara,Religion
+509,tvMu,Religion
+511,Pijar TV,Religion
 514,EWTN,Religion
+516,U-Channel TV,Religion
 517,Hope Channel,Religion
+519,Reformed 21 TV,Religion
 531,Sindonews TV,Local
 532,IDX Channel,Local
 533,CGTN,News
@@ -73,6 +89,7 @@ LCN,Channel Name (* = YT Channel),Genre
 542,CNA,News
 543,Al Jazeera English,News
 550,NHK World Japan,International
+551,UPFRONT CHANNEL (*),Entertainment
 552,DW English,International
 554,Arirang TV,International
 555,Rai Italia,International
@@ -85,6 +102,7 @@ LCN,Channel Name (* = YT Channel),Genre
 564,KBS World,Entertainment
 566,ABC Australia,International
 567,Momoiro Clover Z Channel (*),J-Pop
+570,TVRI World,Local
 571,The Indonesia Channel,International
 610,Studio Universal,Movies
 611,HBO,Movies
@@ -121,6 +139,8 @@ LCN,Channel Name (* = YT Channel),Genre
 765,HGTV,Lifestyle
 767,Fashion TV,Lifestyle
 768,Fashion TV HD,Lifestyle
+770,OMAKE CHANNEL (*),Lifestyle
+771,SATOYAMA & SATOUMI Movement Channel (*),Lifestyle
 772,Sakurazaka Channel (*),Lifestyle
 773,Yukurin World (*),Lifestyle
 904,Fight Sports,Sports
