@@ -1,118 +1,132 @@
-LCN,Channel Name
-100,Koishi Komeiji Channel (08:30-17:00)
-100,Channel Info (17:00-08:30)
-101,In House Channel 101
-102,FIRST PLAYLIST (J-Pop)
-110,In House Channel 110
-111,In House Channel 111
-131,AKB48
-132,JKT48
-133,Nogizaka46
-146,tvN
-149,Inori Minase Channel
-150,Limista TV JP
-202,Discovery
-203,Discovery Asia
-204,BBC Earth
-205,History
-209,Animal Planet
-210,Love Nature 4K
-211,CGTN Documentary
-212,Global Trekker
-214,Outdoor Channel
-242,Nickelodeon
-243,Animax
-244,Cartoon Network
-245,Aniplus
-246,Cartoonito
-247,Nick Jr.
-248,Moonbug Kids
-249,Dreamworks TV
-251,BBC Cbeebies
-252,ZooMoo
-301,TVRI Nasional
-302,CNN Indonesia
-303,Lejel Home Shopping
-304,Trans 7
-305,Indosiar
-306,ANTV
-307,tvOne
-308,Metro TV
-309,RTV
-310,Kompas TV
-311,MDTV
-313,Trans TV
-314,Sin Po TV
-315,Jak TV
-316,JTV
-317,BMS TV
-318,SCTV
-319,MOJI TV
-500,Quran TV
-503,DAAI TV
-506,Daystar TV
-514,EWTN
-517,Hope Channel
-533,CGTN
-534,BBC News
-535,FOX News
-536,CNN International
-539,Bloomberg TV
-540,TRT World
-541,CNBC Asia
-542,CNA
-543,Al Jazeera English
-550,NHK World Japan
-552,DW English
-554,Arirang TV
-555,Rai Italia
-557,CCTV-4
-558,Russia Today
-559,Euronews
-560,TV5 Monde
-562,France 24 English
-563,KBS Korea
-564,KBS World
-566,ABC Australia
-567,Momoiro Clover Z Channel
-571,The Indonesia Channel
-610,Studio Universal
-611,HBO
-612,HBO Signature
-613,Cinemax
-614,HBO Family
-615,HBO Hits
-616,tvN Movies
-623,CinemaWorld
-638,Macau Lotus TV
-639,KIX
-640,Celestial Classic Movies
-641,Celestial Movies
-651,Zee Bioskop
-661,Thrill
-722,Rock Entertainment
-723,Rock Action
-724,K+
-732,AXN
-734,HITS Now
-735,HITS Movies
-736,HITS
-737,Warner TV
-747,DMAX
-749,Crime+Investigation
-750,AFN
-751,BBC Lifestyle
-752,Food Network
-757,TLC
-759,Lifetime
-761,Trvl Channel
-765,HGTV
-767,Fashion TV
-768,Fashion TV HD
-904,Fight Sports
-906,beIN Sports 1
-907,beIN Sports 2
-908,beIN Sports 3
-909,SPOTV
-910,SPOTV 2
-912,Eurosport
+LCN,Channel Name (* = YT Channel),Genre
+100,Channel Info,In House
+101,In House Channel 101,In House
+102,FIRST PLAYLIST (*),J-Pop
+103,In House Channel 103,In House (Lifestyle)
+131,AKB48 (*),J-Pop
+132,JKT48 (*),J-Pop
+133,Nogizaka46 (*),J-Pop
+146,tvN,Entertainment
+149,Inori Minase Channel (*),J-Pop
+150,Limista TV JP (*),Music
+202,Discovery,Knowledge
+203,Discovery Asia,Knowledge
+204,BBC Earth,Knowledge
+205,History,Knowledge
+206,Discovery Science (*),Knowledge
+209,Animal Planet,Knowledge
+210,Love Nature 4K,Knowledge
+211,CGTN Documentary,Knowledge
+212,Global Trekker,Knowledge
+214,Outdoor Channel,Kmowledge
+242,Nickelodeon,Kids
+243,Animax,Entertainment
+244,Cartoon Network,Kids
+245,Aniplus,Entertainment
+246,Cartoonito,Kids
+247,Nick Jr.,Kids
+248,Moonbug Kids,Kids
+249,Dreamworks TV,Kids
+251,BBC Cbeebies,Kids
+252,ZooMoo,Kids
+292,Bali TV,Local
+293,RCTI,Local
+294,MNC TV,Local
+295,GTV,Local
+296,Inews TV,Local
+297,Trans 7 HD,Local
+298,Trans TV HD,Local
+299,SCTV HD,Local
+300,Iman Zto (*),Lifestyle
+301,TVRI Nasional,Local
+302,CNN Indonesia,Local
+303,Lejel Home Shopping,Local
+305,Indosiar,Local
+306,ANTV,Local
+307,tvOne,Local
+308,Metro TV,Local
+309,Garuda TV,Local
+310,Kompas TV,Local
+311,MDTV,Local
+312,CNBC Indonesia,Local
+314,Sin Po TV,Local
+315,Jak TV,Local
+316,JTV,Local
+317,BMS TV,Local
+318,RTV,Local
+319,MOJI TV,Local
+500,Quran TV,Religion
+503,DAAI TV,Local
+504,MTA TV,Religion
+506,Daystar TV,Religion
+514,EWTN,Religion
+517,Hope Channel,Religion
+531,Sindonews TV,Local
+532,IDX Channel,Local
+533,CGTN,News
+534,BBC News,News
+535,FOX News,News
+536,CNN International,News
+539,Bloomberg TV,News
+540,TRT World,News
+541,CNBC Asia,News
+542,CNA,News
+543,Al Jazeera English,News
+550,NHK World Japan,International
+552,DW English,International
+554,Arirang TV,International
+555,Rai Italia,International
+557,CCTV-4,International
+558,Russia Today,International
+559,Euronews,News
+560,TV5 Monde,International
+562,France 24 English,International
+563,KBS Korea,International
+564,KBS World,Entertainment
+566,ABC Australia,International
+567,Momoiro Clover Z Channel (*),J-Pop
+571,The Indonesia Channel,International
+610,Studio Universal,Movies
+611,HBO,Movies
+612,HBO Signature,Movies
+613,Cinemax,Movies
+614,HBO Family,Movies
+615,HBO Hits,Movies
+616,tvN Movies,Movies
+623,CinemaWorld,Movies
+638,Macau Lotus TV,Movies
+639,KIX,Entertainment
+640,Celestial Classic Movies,Movies
+641,Celestial Movies,Movies
+651,Zee Bioskop,Movies
+661,Thrill,Movies
+722,Rock Entertainment,Entertainment
+723,Rock Action,Entertainment
+724,K+,Entertainment
+726,Comedy Central (*),Entertainment
+732,AXN,Entertainment
+734,HITS Now,Entertainment
+735,HITS Movies,Movies
+736,HITS,Entertainment
+737,Warner TV,Entertainment
+747,DMAX,Lifestyle
+749,Crime+Investigation,Knowledge
+750,AFN,Lifestyle
+751,BBC Lifestyle,Lifestyle
+752,Food Network,Lifestyle
+755,MosoGourment (*),Lifestyle
+757,TLC,Lifestyle
+759,Lifetime,Entertainment
+761,Trvl Channel,Lifestyle
+765,HGTV,Lifestyle
+767,Fashion TV,Lifestyle
+768,Fashion TV HD,Lifestyle
+772,Sakurazaka Channel (*),Lifestyle
+773,Yukurin World (*),Lifestyle
+904,Fight Sports,Sports
+906,beIN Sports 1,Sports
+907,beIN Sports 2,Sports
+908,beIN Sports 3,Sports
+909,SPOTV,Sports
+910,SPOTV 2,Sports
+912,Eurosport,Sports
