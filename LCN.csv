@@ -36,17 +36,14 @@ LCN,Channel Name (* = YT Channel),Genre
 247,Nick Jr.,Kids
 248,Moonbug Kids,Kids
 249,Dreamworks TV,Kids
+250,Keadiom Kids Channel,Kids
 251,BBC Cbeebies,Kids
 252,ZooMoo,Kids
-292,Bali TV,Local
-293,RCTI,Local
-294,MNC TV,Local
-295,GTV,Local
-296,Inews TV,Local
+296,Trans TV HD,Local
 297,Trans 7 HD,Local
-298,Trans TV HD,Local
-299,SCTV HD,Local
-300,Iman Zto (*),Lifestyle
+298,RCTI,Local
+299,GTV,Local
+300,MNC TV,Local
 301,TVRI Nasional,Local
 302,CNN Indonesia,Local
 303,Lejel Home Shopping,Local
@@ -58,16 +55,23 @@ LCN,Channel Name (* = YT Channel),Genre
 310,Kompas TV,Local
 311,MDTV,Local
 312,CNBC Indonesia,Local
+313,BTV,Local
 314,Sin Po TV,Local
 315,Jak TV,Local
 316,JTV,Local
 317,BMS TV,Local
 318,RTV,Local
 319,MOJI TV,Local
+520,DAAI TV,Local
+321,Nusantara TV,Local
+322,Bali TV,Local
+324,Elshinta TV,Local
+325,Inews TV,Local
 500,Quran TV,Religion
 502,Rodja TV,Religion
-503,DAAI TV,Local
+503,DMI TV,Religion
 504,MTA TV,Religion
+505,Sunnah TV,Religion
 506,Daystar TV,Religion
 507,Nabawi TV,Religion
 508,TV9 Nusantara,Religion
@@ -118,6 +122,7 @@ LCN,Channel Name (* = YT Channel),Genre
 641,Celestial Movies,Movies
 651,Zee Bioskop,Movies
 661,Thrill,Movies
+721,SCTV HD,Local
 722,Rock Entertainment,Entertainment
 723,Rock Action,Entertainment
 724,K+,Entertainment
@@ -132,6 +137,7 @@ LCN,Channel Name (* = YT Channel),Genre
 750,AFN,Lifestyle
 751,BBC Lifestyle,Lifestyle
 752,Food Network,Lifestyle
+753,E! (*),Lifestyle
 755,MosoGourment (*),Lifestyle
 757,TLC,Lifestyle
 759,Lifetime,Entertainment
