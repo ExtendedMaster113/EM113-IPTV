@@ -1,15 +1,16 @@
 LCN,Channel Name,Genre
-9,HITS Movies HD,Movies
-16,Celestial Classic Movies,Movies
-17,Celestial Movies HD,Movies
-19,Thrill,Movies
-20,tvN Movies HD,Movies
-21,HBO HD,Movies
-22,HBO Signature HD,Movies
-23,Cinemax HD,Movies
-24,HBO Family HD,Movies
-25,HBO Hits HD,Movies
-26,Studio Universal HD,Movies
+49,Movies News,Movies
+50,HBO HD,Movies
+51,HBO Signature HD,Movies
+52,HBO Hits HD,Movies
+53,HBO Family HD,Movies
+54,Cinemax HD,Movies
+59,HITS Movies HD,Movies
+60,Celestial Movies HD,Movies
+61,Celestial Classic Movies,Movies
+62,Thrill,Movies
+65,tvN Movies HD,Movies
+66,Studio Universal HD,Movies
 72,Nick Jr. HD,Kids
 73,Nickelodeon HD,Kids
 74,Cartoon TV Classics,Kids
@@ -40,6 +41,7 @@ LCN,Channel Name,Genre
 155,HGTV HD,Lifestyle
 157,BBC Lifestyle HD,Lifestyle
 158,AFN HD,Lifestyle
+159,tvN HD,Entertainment
 208,Rock Action HD,Entertainment
 209,Rock Entertainment HD,Entertainment
 211,AXN HD,Entertainment
@@ -54,32 +56,50 @@ LCN,Channel Name,Genre
 302,SPOTV 2 HD,Sports
 304,Xtrem Sports,Sports
 305,Golf Network,Sports
-331,CNBC Asia HD,News
+326,CNN International HD,News
+329,CNBC Asia HD,News
+330,BBC News HD,News
+331,Bloomberg TV HD,News
 332,CNA HD,News
 333,CGTN HD,News
-334,BBC News HD,News
-336,CNN International HD,News
-339,Bloomberg TV HD,News
-340,TRT World HD,News
-342,RT News HD,News
-343,Al Jazeera English HD,News
-344,The Indonesia Channel,International
-350,tvN HD,Entertainment
-351,Arirang TV HD,International
-352,NHK World Japan HD,International
+334,Sky News HD,News
+335,Al Jazeera English HD,News
+336,Euronews,News
+350,NHK World Japan HD,International
+351,TRT World HD,News
+352,DW TV Asia HD,International
+353,France 24 English,International
 354,ABC Australia HD,International
 355,Rai Italia,International
 357,CCTV-4 HD,International
-359,Euronews,News
 360,TV5 Monde HD,International
 361,TVE Asia,International
-362,DW TV Asia HD,International
-363,France 24 English,International
-364,KBS World HD,Entertainment
-448,Daystar TV,Religion
+362,France 24 Francais,International
+363,TRT Arabic,International
+364,RT News,International
+367,Arirang TV HD,International
+368,KBS World HD,International
+369,Z Bioskop,Movies
+371,The Indonesia Channel,International
 449,Sunnah TV,Religion
 450,Quran TV,Religion
-517,Momoiro Clover Z Channel,Music
+452,Rodja TV,Religion
+453,MQTV,Religion
+454,MTA TV,Religion
+455,DMI TV HD,Religion
+457,DAAI TV,Religion
+458,TV9 Nusantara,Religion
+459,tvMu HD,Religion
+470,Hope Channel HD,Religion
+471,U-Channel TV,Religion
+472,Gizin TV,Religion
+473,Reformed 21 TV HD,Religion
+475,GMS Channel HD,Religion
+476,Daystar TV,Religion
+516,AKB48,J-Pop
+517,Momoiro Clover Z,J-Pop
+518,Nogizaka46,J-Pop
+519,Morning Musume,J-Pop
 600,Channel Info,In House
 601,In House Channel,In House
 602,TVRI Nasional HD,Local
@@ -100,7 +120,7 @@ LCN,Channel Name,Genre
 617,BMS TV,Local
 618,RTV HD,Local
 619,IDX Channel HD,Local
-620,DAAI TV,Religion
+620,MDTV HD,Local
 621,JTV,Local
 622,Bali TV,Local
 624,Elshinta TV,Local
