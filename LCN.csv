@@ -1,145 +1,113 @@
 LCN,Channel Name,Genre
-100,Channel Info,In House
-101,In House Channel 101,In House
-103,In House Channel 103,In House (Lifestyle)
-146,MTV Japan,Music
-149,Ebichu (Shiritsu Ebitsu Chuugaku),J-Pop
-150,Limista TV,Music
-181,Tokisen (Tokimeki Sendenbu),J-Pop
-202,Discovery,Knowledge
-203,Discovery Asia,Knowledge
-204,BBC Earth,Knowledge
-205,History,Knowledge
-209,Animal Planet,Knowledge
-210,Love Nature 4K,Knowledge
-211,CGTN Documentary,Knowledge
-212,Global Trekker,Lifestyle
-213,Knowledge+,Knowledge
-214,Outdoor Channel,Knowledge
-237,Cartoon TV,Kids
-239,Cartoon TV Premium,Kids
-242,Nickelodeon,Kids
-243,Animax,Entertainment
-244,Cartoon Network,Kids
-246,Cartoonito,Kids
-247,Nick Jr.,Kids
-248,Moonbug Kids,Kids
-249,Dreamworks TV,Kids
-251,BBC Cbeebies,Kids
-252,ZooMoo,Kids
-296,Trans TV HD,Local
-297,Trans 7 HD,Local
-298,RCTI,Local
-299,GTV,Local
-300,MNC TV,Local
-301,TVRI Nasional,Local
-302,CNN Indonesia,Local
-303,Lejel Home Shopping,Local
-304,SCTV HD,Local
-305,Indosiar,Local
-306,ANTV,Local
-307,tvOne,Local
-308,Metro TV,Local
-309,Garuda TV,Local
-310,Kompas TV,Local
-311,MDTV,Local
-312,CNBC Indonesia,Local
-313,BTV,Local
-314,Sin Po TV,Local
-315,Jak TV,Local
-316,JTV,Local
-317,BMS TV,Local
-318,RTV,Local
-319,IDX Channel,Local
-322,Bali TV,Local
-324,Elshinta TV,Local
-325,MOJI TV,Local
-327,VTV,Local
-328,Nusantara TV,Local
-329,Inews TV,Local
-334,Sindonews TV,Local
-500,Quran TV,Religion
-502,Rodja TV,Religion
-503,MQTV,Religion
-504,MTA TV,Religion
-505,DMI TV,Religion
-506,Daystar TV,Religion
-507,Nabawi TV,Religion
-508,TV9 Nusantara,Religion
-509,tvMu,Religion
-510,Angel TV,Religion
-511,Pijar TV,Religion
-516,U-Channel TV,Religion
-517,Hope Channel,Religion
-519,EWTN,Religion
-520,DAAI TV,Religion
-521,Reformed 21 TV,Religion
-522,Sunnah TV,Religion
-531,CNBC Asia,News
-532,CNA,News
-533,Al Jazeera English,News
-534,BBC News,News
-535,FOX News,News
-536,CNN International,News
-539,Bloomberg TV,News
-540,TRT World,News
-541,RT News,News
-550,NHK World Japan,International
-552,DW English,International
-554,Arirang TV,International
-555,Rai Italia,International
-557,CCTV-4,International
-558,CGTN,News
-559,Euronews,News
-560,TV5 Monde,International
-562,France 24 English,International
-563,KBS Korea,International
-564,KBS World,Entertainment
-566,ABC Australia,International
-567,Momoiro Clover Z Channel,J-Pop
-570,TVRI World,Local
-571,The Indonesia Channel,International
-610,Studio Universal,Movies
-611,HBO,Movies
-612,HBO Signature,Movies
-613,Cinemax,Movies
-614,HBO Family,Movies
-615,HBO Hits,Movies
-616,tvN Movies,Movies
-623,CinemaWorld,Movies
-639,KIX,Entertainment
-640,Celestial Classic Movies,Movies
-641,Celestial Movies,Movies
-651,Zee Bioskop,Movies
-661,Thrill,Movies
-722,Rock Entertainment,Entertainment
-723,Rock Action,Entertainment
-726,tvN,Entertainment
-732,AXN,Entertainment
-734,HITS Now,Entertainment
-735,HITS Movies,Movies
-736,HITS,Entertainment
-737,Warner TV,Entertainment
-747,DMAX,Lifestyle
-749,Crime+Investigation,Knowledge
-750,AFN,Lifestyle
-751,BBC Lifestyle,Lifestyle
-752,Food Network,Lifestyle
-757,TLC,Lifestyle
-759,Lifetime,Entertainment
-761,Trvl Channel,Lifestyle
-765,HGTV,Lifestyle
-767,Fashion TV,Lifestyle
-768,Fashion TV HD,Lifestyle
-904,Xtrem Sports,Sports
-905,TVRI Sport,Sports
-909,SPOTV,Sports
-910,SPOTV 2,Sports
-912,Eurosport,Sports
-914,Fight Sports,Sports
-915,Golf Network,Sports
-916,W-Sport,Sports
-918,PSJ TV,Sports
-919,beIN Sports 1,Sports
-920,beIN Sports 2,Sports
-921,beIN Sports 3,Sports
+9,HITS Movies HD,Movies
+16,Celestial Classic Movies,Movies
+17,Celestial Movies HD,Movies
+19,Thrill,Movies
+20,tvN Movies HD,Movies
+21,HBO HD,Movies
+22,HBO Signature HD,Movies
+23,Cinemax HD,Movies
+24,HBO Family HD,Movies
+25,HBO Hits HD,Movies
+26,Studio Universal HD,Movies
+72,Nick Jr. HD,Kids
+73,Nickelodeon HD,Kids
+74,Cartoon TV Classics,Kids
+75,Cartoon Network HD,Kids
+76,Animax HD,Kids
+77,Dreamworks TV HD,Kids
+78,Moonbug Kids,Kids
+79,Blippi & Friends,Kids
+80,Tamagotchi Channel,Kids
+81,BBC Cbeebies HD,Kids
+82,Cartoonito HD,Kids
+99,Love Nature 4K,Knowledge
+100,Love Nature HD,Knowledge
+101,Global Trekker HD,Knowledge
+102,Outdoor Channel HD,Knowledge
+103,Knowledge+,Knowledge
+104,BBC Earth HD,Knowledge
+105,History HD,Knowledge
+107,Crime+Investigation HD,Knowledge
+108,Discovery Asia HD,Knowledge
+109,Discovery HD,Knowledge
+110,Animal Planet HD,Knowledge
+111,Discovery Science HD,Knowledge
+112,DMAX HD,Lifestyle
+113,TLC HD,Lifestyle
+115,CGTN Documentary HD,Knowledge
+154,Fashion TV,Lifestyle
+155,HGTV HD,Lifestyle
+157,BBC Lifestyle HD,Lifestyle
+158,AFN HD,Lifestyle
+208,Rock Action HD,Entertainment
+209,Rock Entertainment HD,Entertainment
+211,AXN HD,Entertainment
+212,HITS Now HD,Entertainment
+213,Lifetime HD,Entertainment
+214,Warner TV HD,Entertainment
+218,KIX HD,Entertainment
+219,HITS HD,Entertainment
+252,MTV Japan,Music
+300,Fight Sports HD,Sports
+301,SPOTV HD,Sports
+302,SPOTV 2 HD,Sports
+304,Xtrem Sports,Sports
+305,Golf Network,Sports
+331,CNBC Asia HD,News
+332,CNA HD,News
+333,CGTN HD,News
+334,BBC News HD,News
+336,CNN International HD,News
+339,Bloomberg TV HD,News
+340,TRT World HD,News
+342,RT News HD,News
+343,Al Jazeera English HD,News
+344,The Indonesia Channel,International
+350,tvN HD,Entertainment
+351,Arirang TV HD,International
+352,NHK World Japan HD,International
+354,ABC Australia HD,International
+355,Rai Italia,International
+357,CCTV-4 HD,International
+359,Euronews,News
+360,TV5 Monde HD,International
+361,TVE Asia,International
+362,DW TV Asia HD,International
+363,France 24 English,International
+364,KBS World HD,Entertainment
+448,Daystar TV,Religion
+449,Sunnah TV,Religion
+450,Quran TV,Religion
+517,Momoiro Clover Z Channel,Music
+600,Channel Info,In House
+601,In House Channel,In House
+602,TVRI Nasional HD,Local
+603,Metro TV HD,Local
+604,CNN Indonesia HD,Local
+605,tvOne HD,Local
+606,ANTV HD,Local
+607,RCTI HD,Local
+608,MNC TV HD,Local
+609,Trans 7 HD,Local
+610,Trans TV HD,Local
+611,SCTV HD,Local
+612,GTV HD,Local
+613,Indosiar HD,Local
+615,Kompas TV HD,Ll616,Jak TV,Local
+617,BMS TV,Local
+618,BTV HD,Local
+619,IDX Channel HD,Local
+620,DAAI TV,Religion
+621,JTV,Local
+622,Bali TV,Local
+624,Elshinta TV,Local
+625,MOJI TV HD,Local
+629,iNews HD,Local
+631,BeritaSatu HD,Local
+632,Jawa Pos TV,Local
+633,Garuda TV HD,Local
+634,Sindonews TV HD,Local
+635,CNBC Indonesia HD,Local
+637,Channel Jowo HD,Local
+638,TVRI World HD,Local
