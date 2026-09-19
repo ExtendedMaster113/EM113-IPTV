@@ -1,27 +1,33 @@
 LCN,Channel Name,Genre
-49,Movies News,Movies
 50,HBO HD,Movies
 51,HBO Signature HD,Movies
 52,HBO Hits HD,Movies
 53,HBO Family HD,Movies
 54,Cinemax HD,Movies
-59,HITS Movies HD,Movies
-60,Celestial Movies HD,Movies
-61,Celestial Classic Movies,Movies
-62,Thrill,Movies
-65,tvN Movies HD,Movies
+55,Z Bioskop,Movies
+56,Celestial Classic Movies,Movies
+57,Celestial Movies HD,Movies
+58,Lotus Macau,Movies
+59,Thrill,Movies
+60,HITS Movies HD,Movies
+61,tvN Movies HD,Movies
+62,Movies News,Movies
+63,CinemaWorld HD,Movies
+64,Rock Action HD,Movies
+65,Rock X Stream HD,Movies
 66,Studio Universal HD,Movies
+67,Universal Action,Movies
 72,Nick Jr. HD,Kids
 73,Nickelodeon HD,Kids
 74,Cartoon TV Classics,Kids
 75,Cartoon Network HD,Kids
-76,Animax HD,Kids
 77,Dreamworks TV HD,Kids
 78,Moonbug Kids,Kids
 79,Blippi & Friends,Kids
 80,Tamagotchi Channel,Kids
 81,BBC Cbeebies HD,Kids
 82,Cartoonito HD,Kids
+85,Da Vinci Learning,Kids
 99,Love Nature 4K,Knowledge
 100,Love Nature HD,Knowledge
 101,Global Trekker HD,Knowledge
@@ -29,6 +35,7 @@ LCN,Channel Name,Genre
 103,Knowledge+,Knowledge
 104,BBC Earth HD,Knowledge
 105,History HD,Knowledge
+106,FYI,Lifetyle
 107,Crime+Investigation HD,Knowledge
 108,Discovery Asia HD,Knowledge
 109,Discovery HD,Knowledge
@@ -36,35 +43,41 @@ LCN,Channel Name,Genre
 111,Discovery Science HD,Knowledge
 112,DMAX HD,Lifestyle
 113,TLC HD,Lifestyle
+114,Eve HD,Lifestyle
 115,CGTN Documentary HD,Knowledge
-154,Fashion TV,Lifestyle
-155,HGTV HD,Lifestyle
-157,BBC Lifestyle HD,Lifestyle
-158,AFN HD,Lifestyle
-159,tvN HD,Entertainment
-208,Rock Action HD,Entertainment
-209,Rock Entertainment HD,Entertainment
-211,AXN HD,Entertainment
-212,HITS Now HD,Entertainment
-213,Lifetime HD,Entertainment
-214,Warner TV HD,Entertainment
-218,KIX HD,Entertainment
-219,HITS HD,Entertainment
+150,HGTV HD,Lifestyle
+151,AFN HD,Lifestyle
+153,BBC Lifestyle HD,Lifestyle
+155,Fashion TV,Lifestyle
+204,K+ HD,Entertainment
+205,tvN HD,Entertainment
+206,AXN HD,Entertainment
+207,NHK World Premium HD,International
+208,HITS HD,Entertainment
+209,Lifetime HD,Entertainment
+210,Rock Entertainment HD,Entertainment
+211,KBS World HD,Entertainment
+212,KIX HD,Entertainment
+215,HITS Now HD,Entertainment
+216,MDTV HD,Local
+217,Warner TV HD,Entertainment
+218,Aniplus HD,Entertainment
+219,Animax HD,Entertainment
 252,MTV Japan,Music
+253,CDI,Music
 300,Fight Sports HD,Sports
 301,SPOTV HD,Sports
 302,SPOTV 2 HD,Sports
 304,Xtrem Sports,Sports
 305,Golf Network,Sports
-326,CNN International HD,News
-329,CNBC Asia HD,News
 330,BBC News HD,News
 331,Bloomberg TV HD,News
 332,CNA HD,News
 333,CGTN HD,News
 334,Sky News HD,News
-335,Al Jazeera English HD,News
-336,Euronews,News
+335,Euronews,News
+336,CNN International HD,News
+338,CNBC Asia HD,News
 350,NHK World Japan HD,International
 351,TRT World HD,News
 352,DW TV Asia HD,International
@@ -72,15 +85,15 @@ LCN,Channel Name,Genre
 354,ABC Australia HD,International
 355,Rai Italia,International
 357,CCTV-4 HD,International
+358,Al Jazeera English HD,News
+359,Arirang TV HD,International
 360,TV5 Monde HD,International
 361,TVE Asia,International
 362,France 24 Francais,International
 363,TRT Arabic,International
-364,RT News,International
-367,Arirang TV HD,International
-368,KBS World HD,International
-369,Z Bioskop,Movies
-371,The Indonesia Channel,International
+364,KBS Korea HD,International
+365,RT News HD,International
+367,The Indonesia Channel,International
 449,Sunnah TV,Religion
 450,Quran TV,Religion
 452,Rodja TV,Religion
@@ -96,9 +109,9 @@ LCN,Channel Name,Genre
 473,Reformed 21 TV HD,Religion
 475,GMS Channel HD,Religion
 476,Daystar TV,Religion
-516,AKB48,J-Pop
+515,AKB48,J-Pop
+516,Nogizaka46,J-Pop
 517,Momoiro Clover Z,J-Pop
-518,Nogizaka46,J-Pop
 519,Morning Musume,J-Pop
 600,Channel Info,In House
 601,In House Channel,In House
@@ -107,20 +120,19 @@ LCN,Channel Name,Genre
 604,CNN Indonesia HD,Local
 605,tvOne HD,Local
 606,ANTV HD,Local
-607,RCTI HD,Local
-608,MNC TV HD,Local
+607,SCTV HD,Local
+608,Indosiar HD,Local
 609,Trans 7 HD,Local
 610,Trans TV HD,Local
-611,SCTV HD,Local
+611,RCTI HD,Local
 612,GTV HD,Local
-613,Indosiar HD,Local
+613,MNC TV HD,Local
 614,Kompas TV HD,Local
 615,BTV HD,Local
 616,Jak TV,Local
 617,BMS TV,Local
 618,RTV HD,Local
 619,IDX Channel HD,Local
-620,MDTV HD,Local
 621,JTV,Local
 622,Bali TV,Local
 624,Elshinta TV,Local
